@@ -1,10 +1,11 @@
-A C
-D
-A G
-G
-E
-E
-G
-K
-L
-I
+dinosaur
+beautiful 
+joy
+beautiful
+plant
+sun
+sun
+water
+happy
+happy
+food
